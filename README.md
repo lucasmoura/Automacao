@@ -1,4 +1,4 @@
 Automacao
 =========
 
-Repositório onde ficaram os scripts de teste
+Repositório onde irão ficar os scripts de teste
